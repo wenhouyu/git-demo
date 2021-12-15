@@ -7,3 +7,5 @@ my name is hello2
 hot-fix
 now github
 push
+github clone
+git@github.com:wenhouyu/git-demo.git
